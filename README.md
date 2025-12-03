@@ -23,7 +23,7 @@
 - 🔢 Lucky number: **7** 
 - 🎧 Current vibe:
 <div align="left">
-  <a href="https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x">
+  <a href="https://open.spotify.com/track/1CeC8kOYxUTCC2wHGtWROD?si=b251c23a7b3a4be7">
     <img src="https://img.shields.io/badge/Radiohead-Let%20Down-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Let Down by Radiohead">
   </a>
 </div>
