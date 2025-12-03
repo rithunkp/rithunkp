@@ -30,7 +30,7 @@
 
 ## 👾 Github Stats
 <img src="https://github-profile-trophy.vercel.app?username=rithunkp&theme=dracula&column=-1&rank=-?&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
-<br clear="both">
+**Contributions in the last year**
 <img src="https://raw.githubusercontent.com/rithunkp/rithunkp/output/snake.svg" alt="Snake animation" />
 
 ---
