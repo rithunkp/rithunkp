@@ -27,9 +27,16 @@
 
 If you like my repos, **yeet a star ⭐**.  
 Motivates me to build more cool stuff instead of staring at my code confused.
-
-[![Spotify](https://novatiram.vercel.app/api/spotify)](https://open.spotify.com/user/mkcyq3zegkccavmk8cg3py6p1)
-[![Spotify Player](https://spotify-github-profile.vercel.app/api/view?uid=mkcyq3zegkccavmk8cg3py6p1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x)
+<div align="center">
+  <a href="https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x">
+    <img src="https://spotify-now-playing-keysnj.vercel.app/api/spotify-playing?nowPlaying=true&title=Let%20Down&artist=Radiohead&cover=https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0bd85a" width="350" alt="Let Down - Radiohead">
+  </a>
+</div>
+<div align="center">
+  <a href="https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x">
+    <img src="https://img.shields.io/badge/Radiohead-Let%20Down-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Let Down - Radiohead">
+  </a>
+</div>
 <div align="center">
   <a href="https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x">
     <img src="https://img.shields.io/badge/Radiohead-Let%20Down-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Let Down by Radiohead">
