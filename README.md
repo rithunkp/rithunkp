@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">👋 Hey, I’m <b>Rithun KP</b> (a.k.a. Itz Rick)</h1>
+<h1 align="center">👋 Hey, I’m <b>Rithun K P</b> (a.k.a. Itz Rick)</h1>
 <p align="center">Student • AI Enthusiast • Efficiently Lazy</p>
 
 
