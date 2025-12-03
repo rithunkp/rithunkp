@@ -19,26 +19,17 @@
 
 ## ⚡ Lore drops
 - 🎮 Favorite games: **Outer Wilds**, Hollow Knight
-- 🔢 Lucky number: **7**
-- 🍕 Personality type: Hungry  
 - 📈 Side hobby: Contemplating choices 
+- 🔢 Lucky number: **7** 
+- 🎧 Current vibe:
+<div align="left">
+  <a href="https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x">
+    <img src="https://img.shields.io/badge/Radiohead-Let%20Down-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Let Down by Radiohead">
+  </a>
+</div>
 
 ---
 
 If you like my repos, **yeet a star ⭐**.  
 Motivates me to build more cool stuff instead of staring at my code confused.
-<div align="center">
-  <a href="https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x">
-    <img src="https://spotify-now-playing-keysnj.vercel.app/api/spotify-playing?nowPlaying=true&title=Let%20Down&artist=Radiohead&cover=https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0bd85a" width="350" alt="Let Down - Radiohead">
-  </a>
-</div>
-<div align="center">
-  <a href="https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x">
-    <img src="https://img.shields.io/badge/Radiohead-Let%20Down-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Let Down - Radiohead">
-  </a>
-</div>
-<div align="center">
-  <a href="https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x">
-    <img src="https://img.shields.io/badge/Radiohead-Let%20Down-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Let Down by Radiohead">
-  </a>
-</div>
+
