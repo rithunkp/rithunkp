@@ -29,7 +29,7 @@
 </div>
 
 ## 👾 Github Stats
-<img src="https://github-profile-trophy.vercel.app?username=rithunkp&theme=dracula&column=-1&no-self-prose=true&margin-w=8&margin-h=8&no-bg=false&no-frame=false&v=3" height="150" alt="trophy graph" />
+<img src="https://github-profile-trophy.vercel.app?username=rithunkp&theme=dracula&column=-1&rank=-?&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
 <br clear="both">
 <img src="https://raw.githubusercontent.com/rithunkp/rithunkp/output/snake.svg" alt="Snake animation" />
 
