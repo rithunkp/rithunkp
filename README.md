@@ -27,13 +27,11 @@
 
 If you like my repos, **yeet a star ⭐**.  
 Motivates me to build more cool stuff instead of staring at my code confused.
-### 🎵 Let Down — Radiohead
 
-[![Let Down](https://i.scdn.co/image/ab67616d0000b273080cf4d47ec95bf2c98b0a94)](https://open.spotify.com/track/0wYwI7M8jGfLkVQ7I3D8pO)
-
-### 🎧 Currently Vibing To
-
-<p align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0wYwI7M8jGfLkVQ7I3D8pO?utm_source=generator" width="70%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-</p>
-
+[![Spotify](https://novatiram.vercel.app/api/spotify)](https://open.spotify.com/user/mkcyq3zegkccavmk8cg3py6p1)
+[![Spotify Player](https://spotify-github-profile.vercel.app/api/view?uid=mkcyq3zegkccavmk8cg3py6p1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x)
+<div align="center">
+  <a href="https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x">
+    <img src="https://img.shields.io/badge/Radiohead-Let%20Down-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Let Down by Radiohead">
+  </a>
+</div>
