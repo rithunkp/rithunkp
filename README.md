@@ -1,28 +1,22 @@
 <!-- Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
-  <img alt="Rithun K P animated profile banner" src="assets/dark.svg" width="100%">
-</picture>
-
-<h1 align="center">Hey, I'm <b>Rithun K P</b> <code>@rithunkp</code></h1>
+<h1 align="center">👋 Hey, I'm <b>Rithun K P</b> <code>@rithunkp</code></h1>
 <p align="center">AI Engineer - Student - Efficiently Lazy</p>
 
-## About Me
+## 🔥 About Me
 
-- BTech Computer Science and Artificial Intelligence at Amrita Vishwa Vidyapeetham
-- BS Data Science and Programming at IIT Madras
-- Building with RAG systems, multi-agent workflows, MCP, GRPO, FastAPI, and Docker
-- Usually making tools that automate the boring parts before they annoy me twice
+- 🎓 BTech Computer Science and Artificial Intelligence at Amrita Vishwa Vidyapeetham
+- 🎓 BS Data Science and Programming at **IIT Madras**
+- 🧠 Learning AI, RAG systems, and whatever else I panic-Google at 2 AM  
+- ✨ Usually making tools that automate the boring parts before they annoy me twice
 
-## What I Build
+## 🛠️  What I Build
 
 - AI systems that reason over repos, incidents, schedules, and structured environments
 - RAG pipelines with LangChain, Hugging Face embeddings, ChromaDB, and Groq/OpenAI APIs
 - Web tools and dashboards when the idea needs a usable face
 - Hardware/software experiments with ESP32, MediaPipe, MQTT, and Python
 
-## Loadout
+## 🧰 Loadout
 
 **Languages:** Python, TypeScript, Java, C++, C, SQL, JavaScript  
 **AI/ML:** LangChain, RAG, Hugging Face Transformers, OpenAI API, Scikit-learn, GRPO  
