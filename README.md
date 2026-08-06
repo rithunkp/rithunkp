@@ -57,9 +57,6 @@
 ## GitHub Stats
 <img src="https://raw.githubusercontent.com/rithunkp/rithunkp/output/snake.svg" alt="Snake animation" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rithunkp&theme=transparent&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981&currStreakLabel=A78BFA&sideLabels=22D3EE&dates=83A4B7&stroke=22314C&currStreakNum=D7E7F3&sideNums=D7E7F3" alt="GitHub streak stats for rithunkp" width="100%">
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats-six-rouge-24.vercel.app/api?username=rithunkp&show_icons=true&hide_rank=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=D7E7F3&icon_color=10B981&border_color=22314C" alt="GitHub stats for rithunkp" width="49%">
