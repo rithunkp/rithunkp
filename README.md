@@ -14,7 +14,6 @@
 - AI systems that reason over repos, incidents, schedules, and structured environments
 - RAG pipelines with LangChain, Hugging Face embeddings, ChromaDB, and Groq/OpenAI APIs
 - Web tools and dashboards when the idea needs a usable face
-- Hardware/software experiments with ESP32, MediaPipe, MQTT, and Python
 
 ## 🧰 Loadout
 
@@ -67,7 +66,7 @@
 
 <p align="center">
   <a href="mailto:rithunpriyesh@gmail.com"><img src="https://img.shields.io/badge/Gmail-rithunpriyesh%40gmail.com-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Rithun K P"></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/rithun-k-p"><img src="https://img.shields.io/badge/LinkedIn-Rithun%20K%20P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/rithun-kp"><img src="https://img.shields.io/badge/LinkedIn-Rithun%20K%20P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>&nbsp;&nbsp;
 
 </p>
 
