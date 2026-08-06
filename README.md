@@ -1,39 +1,85 @@
 <!-- Banner -->
-<h1 align="center">👋 Hey, I’m <b>Rithun K P</b> (a.k.a. Itz Rick)</h1>
-<p align="center">Student • AI Enthusiast • Efficiently Lazy</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
+  <img alt="Rithun K P animated profile banner" src="assets/dark.svg" width="100%">
+</picture>
 
+<h1 align="center">Hey, I'm <b>Rithun K P</b> <code>@rithunkp</code></h1>
+<p align="center">AI Engineer - Student - Efficiently Lazy</p>
 
-## ✨ About Me
-- 🎓 **IIT Madras** BS Data Science + Amrita BTech Computer Science
-- 🧠 Learning AI, RAG systems, and whatever else I panic-Google at 2 AM  
+## About Me
 
-## 🛠️ What I Build
-- 🔥 Currently working on **RAG Pipelines** (LangChain)  
-- 🌐 Web things when I feel frontend-y
-- ⚡ Tools that automate my life
+- BTech Computer Science and Artificial Intelligence at Amrita Vishwa Vidyapeetham
+- BS Data Science and Programming at IIT Madras
+- Building with RAG systems, multi-agent workflows, MCP, GRPO, FastAPI, and Docker
+- Usually making tools that automate the boring parts before they annoy me twice
 
-## 🧰 Loadout
-**AI/ML:** LangChain, OpenAI API, RAG pipelines   
-**Tools:** Git, Linux, VS Code, Colab, Jupyter  
+## What I Build
 
-<h3 align="left">Languages and Others:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- AI systems that reason over repos, incidents, schedules, and structured environments
+- RAG pipelines with LangChain, Hugging Face embeddings, ChromaDB, and Groq/OpenAI APIs
+- Web tools and dashboards when the idea needs a usable face
+- Hardware/software experiments with ESP32, MediaPipe, MQTT, and Python
 
-## ⚡ Lore drops
-- 🎮 Favorite games: **Outer Wilds**, Hollow Knight
-- 📈 Side hobby: Contemplating choices 
-- 🔢 Lucky number: **7** 
-- 🎧 Current vibe:
+## Loadout
+
+**Languages:** Python, TypeScript, Java, C++, C, SQL, JavaScript  
+**AI/ML:** LangChain, RAG, Hugging Face Transformers, OpenAI API, Scikit-learn, GRPO  
+**Frontend:** HTML, CSS, JavaScript, React, Bootstrap  
+**Backend:** FastAPI, Node.js, Express  
+**Database:** PostgreSQL, MongoDB, SQLite, ChromaDB  
+**Infra:** Docker, Git, GitHub Actions, Linux, AWS, Vercel
+
+<h3 align="left">Languages and Tools</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"></a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"></a>
+</p>
+
+## Lore Drops
+
+- Favorite games: **Outer Wilds**, **Hollow Knight**
+- Side hobby: contemplating choices
+- Lucky number: **7**
+- Current vibe:
+
 <div align="left">
   <a href="https://open.spotify.com/track/1CeC8kOYxUTCC2wHGtWROD?si=b251c23a7b3a4be7">
     <img src="https://img.shields.io/badge/Radiohead-Let%20Down-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Let Down by Radiohead">
   </a>
 </div>
 
-## 👾 Github Stats
-<img src="https://raw.githubusercontent.com/rithunkp/rithunkp/output/snake.svg" alt="Snake animation" />
+## GitHub Telemetry
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rithunkp&theme=transparent&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981&currStreakLabel=A78BFA&sideLabels=22D3EE&dates=83A4B7&stroke=22314C&currStreakNum=D7E7F3&sideNums=D7E7F3" alt="GitHub streak stats for rithunkp" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-six-rouge-24.vercel.app/api?username=rithunkp&show_icons=true&hide_rank=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=D7E7F3&icon_color=10B981&border_color=22314C" alt="GitHub stats for rithunkp" width="49%">
+  <img src="https://github-readme-stats-six-rouge-24.vercel.app/api/top-langs/?username=rithunkp&layout=compact&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=D7E7F3&border_color=22314C" alt="Top languages for rithunkp" width="49%">
+</p>
+
+## Connect
+
+<p align="center">
+  <a href="mailto:rithunpriyesh@gmail.com"><img src="https://img.shields.io/badge/Gmail-rithunpriyesh%40gmail.com-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Rithun K P"></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/rithun-k-p"><img src="https://img.shields.io/badge/LinkedIn-Rithun%20K%20P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>&nbsp;&nbsp;
+  <a href="https://facebook.com/rithunkp"><img src="https://img.shields.io/badge/Facebook-rithunkp-0A101F?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook profile"></a>
+</p>
 
 ---
 
-If you like my repos, **yeet a star ⭐**.  
+If you like my repos, **yeet a star**.  
 Motivates me to build more cool stuff instead of staring at my code confused.
