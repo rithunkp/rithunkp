@@ -43,8 +43,8 @@
 
 ## Lore Drops
 
-- Favorite games: **Outer Wilds**, **Hollow Knight**
-- Side hobby: contemplating choices
+- Favorite games: **Outer Wilds**
+- Side hobby: Contemplating choices
 - Lucky number: **7**
 - Current vibe:
 
@@ -54,7 +54,8 @@
   </a>
 </div>
 
-## GitHub Telemetry
+## GitHub Stats
+<img src="https://raw.githubusercontent.com/rithunkp/rithunkp/output/snake.svg" alt="Snake animation" />
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rithunkp&theme=transparent&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981&currStreakLabel=A78BFA&sideLabels=22D3EE&dates=83A4B7&stroke=22314C&currStreakNum=D7E7F3&sideNums=D7E7F3" alt="GitHub streak stats for rithunkp" width="100%">
@@ -75,5 +76,5 @@
 
 ---
 
-If you like my repos, **yeet a star**.  
+If you like my repos, **yeet a star ⭐**.  
 Motivates me to build more cool stuff instead of staring at my code confused.
