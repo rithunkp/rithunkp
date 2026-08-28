@@ -6,8 +6,8 @@
 
 - 🎓 BTech Computer Science and Artificial Intelligence at Amrita Vishwa Vidyapeetham
 - 🎓 BS Data Science and Programming at **IIT Madras**
-- 🧠 Learning AI, RAG systems, and whatever else I panic-Google at 2 AM  
-- ✨ Usually making tools that automate the boring parts before they annoy me twice
+- 🧠 Learning AI or something like that to make me look hardworking
+- ✨ Making tools that automate the boring parts before they annoy me twice
 
 ## 🛠️  What I Build
 
