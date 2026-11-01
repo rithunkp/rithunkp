@@ -17,13 +17,7 @@
 **Database:** PostgreSQL, MongoDB, SQLite, ChromaDB  
 **Infra:** Docker, Git, GitHub Actions, Linux, AWS, Vercel
 
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=rithunkp&langs_count=4&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rithunkp&langs_count=4&theme=light_github" alt="Top Langs" />
-  </picture>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=rithunkp&langs_count=6&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=rithunkp&langs_count=6&theme=dark_github)
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
