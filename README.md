@@ -49,7 +49,6 @@
 </div>
 
 ## GitHub Stats
-[![Rithuns's GitHub stats](https://github-stats-extended.vercel.app/api?username=rithunkp)](https://github.com/stats-organization/github-stats-extended)
 
 <img src="https://raw.githubusercontent.com/rithunkp/rithunkp/output/snake.svg" alt="Snake animation" />
 
