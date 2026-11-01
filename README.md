@@ -1,19 +1,12 @@
 <!-- Banner -->
-<h1 align="center">👋 Hey, I'm <b>Rithun K P</b> <code>@rithunkp</code></h1>
+<h1 align="center">👋 Hey, I'm <b>Rithun</b> <code>@rithunkp</code></h1>
 <p align="center">AI Engineer - Student - Efficiently Lazy</p>
 
 ## 🔥 About Me
 
 - 🎓 BTech Computer Science and Artificial Intelligence at Amrita Vishwa Vidyapeetham
 - 🎓 BS Data Science and Programming at **IIT Madras**
-- 🧠 Learning AI or something like that to make me look hardworking
-- ✨ Making tools that automate the boring parts before they annoy me twice
-
-## 🛠️  What I Build
-
-- AI systems that reason over repos, incidents, schedules, and structured environments
-- RAG pipelines with LangChain, Hugging Face embeddings, ChromaDB, and Groq/OpenAI APIs
-- Web tools and dashboards when the idea needs a usable face
+- 🧠 Learning AI or something like that 
 
 ## 🧰 Loadout
 
@@ -23,6 +16,14 @@
 **Backend:** FastAPI, Node.js, Express  
 **Database:** PostgreSQL, MongoDB, SQLite, ChromaDB  
 **Infra:** Docker, Git, GitHub Actions, Linux, AWS, Vercel
+
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=rithunkp&langs_count=4&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rithunkp&langs_count=4&theme=light_github" alt="Top Langs" />
+  </picture>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
@@ -40,12 +41,7 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"></a>
 </p>
 
-## Lore Drops
-
-- Favorite games: **Outer Wilds**
-- Side hobby: Contemplating choices
-- Lucky number: **7**
-- Current vibe:
+## Current Vibe
 
 <div align="left">
   <a href="https://open.spotify.com/track/1CeC8kOYxUTCC2wHGtWROD?si=b251c23a7b3a4be7">
@@ -54,6 +50,8 @@
 </div>
 
 ## GitHub Stats
+[![Rithuns's GitHub stats](https://github-stats-extended.vercel.app/api?username=rithunkp)](https://github.com/stats-organization/github-stats-extended)
+
 <img src="https://raw.githubusercontent.com/rithunkp/rithunkp/output/snake.svg" alt="Snake animation" />
 
 
